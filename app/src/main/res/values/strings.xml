@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">Application</string>
+    <string name="app_name">Daily Cases by Countries</string>
+    <string name="general_status">General Status</string>
+    <string name="daily_status">Daily Status</string>
+    <string name="case_status">Case Status</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="total_deaths">Total Deaths</string>
+    <string name="total_recovered">Total Recovered</string>
+    <string name="new_cases">New Cases</string>
+    <string name="new_deaths">New Deaths</string>
+    <string name="new_recovered">New Recovered</string>
+    <string name="active_cases">Active Cases</string>
+    <string name="critical_cases">Critical Cases</string>
+    <string name="_null">---</string>
+    <string name="population">Population</string>
+    <string name="day">Select a  \nDay</string>
+    <string name="location">Select a  \nLocation</string>
 </resources>
