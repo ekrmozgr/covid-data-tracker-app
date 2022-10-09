@@ -1,10 +1,15 @@
 # Covid Data Tracker App
 
 This is an android app that shows the daily Covid-19 cases by countries
-
-      Google Play Link : https://play.google.com/store/apps/details?id=com.dailycases.application
-      Data comes from  : disease.sh API 
-      
+</br>
+</br>
+ Google Play Link : https://play.google.com/store/apps/details?id=com.dailycases.application
+ </br>
+ 
+ Data Comes From  : https://disease.sh API 
+ </br>
+ </br>
+ 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72643454/194727465-bb39f561-9a7d-4bbf-849d-264c06e4d65d.png" width="500" height="700">
 </p>
